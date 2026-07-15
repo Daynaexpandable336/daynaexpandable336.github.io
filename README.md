@@ -8,6 +8,38 @@
 <!-- Font Awesome Icon CDN Fix -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 <style>
+/* BODY background */
+body {
+  color: var(--text);
+  background-color: #f5f7fa;
+  /* make sure the path matches where you upload the file in the repo */
+  background-image: url('Pictures/flag.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed; /* optional; some mobile browsers ignore this */
+  line-height: 1.6;
+}
+
+/* Hero section with gradient overlay for contrast */
+.hero {
+  background-color: #0f1720;
+  background-image:
+    linear-gradient(rgba(30,61,89,0.6), rgba(17,30,37,0.7)),
+    url('Pictures/flag.jpg');
+  background-repeat: no-repeat, no-repeat;
+  background-position: center top, center top;
+  background-size: cover, cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  padding: 0 1rem;
+  margin-top: -60px;
+}
 :root {
 --primary: #1e3d59;
 --secondary: #17b978;
